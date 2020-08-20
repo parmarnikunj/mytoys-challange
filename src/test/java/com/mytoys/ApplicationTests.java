@@ -1,10 +1,10 @@
-package com.mytoys.challange;
+package com.mytoys;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ProductsChallangeApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
